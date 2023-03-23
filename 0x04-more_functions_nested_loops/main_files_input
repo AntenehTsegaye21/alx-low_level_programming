@@ -1,0 +1,17 @@
+#!/bin/bash
+for file in *[0-9]-main.c; do
+    echo '
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    return (0);
+}
+' > "$file"
+done
+
