@@ -1,1 +1,1 @@
-0-main.c------.  main.h 1-main.c------.  2-largest_number.c------.  3-print_remaining_days.c------.  
+0-main.c------gives the correct output when given a case of 0.  1-main.c------ Commented out the part of the code that is causing the output to go into an infinite loop.  2-largest_number.c------prints out the largest of three numbers.  3-print_remaining_days.c------converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.  
