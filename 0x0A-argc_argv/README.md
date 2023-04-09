@@ -1,1 +1,6 @@
-100-change.c------.  0-whatsmyname.c------.  1-args.c------.  2-args.c------.  3-mul.c------.  4-add.c------.
+100-change.c------prints the minimum number of coins to make change for an amount of money.  
+0-whatsmyname.c------a program that prints its name, followed by a new line.  
+1-args.c------prints the number of arguments passed into it..  
+2-args.c------prints all arguments it receives..  
+3-mul.c------multiplies two numbers.  
+4-add.c------adds positive numbers.  
