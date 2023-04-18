@@ -48,11 +48,10 @@ char *_strcpy(char *dest, char *src)
 	for (i = 0; i < len; i++)
 	{
 		dest[i] = '\0';
-
-		return (dest);
 	}
+	
+	return (dest);
 }
-
 /**
  * new_dog - creates a new dog
  * @name: new dog name
